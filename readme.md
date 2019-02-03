@@ -1,7 +1,6 @@
 # Awesome Tutos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="ecole-des-mines-de-paris.jpg">](https://github.com/louisguitton/awesome-tutos)
-
+[<p align="center"><img src="ecole-des-mines-de-paris.jpg"></p>](https://github.com/louisguitton/awesome-tutos)
 
 > A curated list of tech tutos to share and to refer back to.
 
@@ -9,22 +8,44 @@ More often than not, I find myself in the need of refering back to a good tutori
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [python](#python)
+- [git](#git)
+- [code reviews](#code-reviews)
+- [docker](#docker)
+- [data science](#data-science)
+- [managing engineering teams](#managing-engineering-teams)
 
-## Section
+## python
 
-About this section. Optional. Keep this short and focus on the list.
+About software engineering in python.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 
-## Another Section
+## git
 
-### Subsection
+- [Git workflows and more by Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [Version control for jupyter notebooks](https://towardsdatascience.com/version-control-for-jupyter-notebook-3e6cef13392d)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## code reviews
+
+- [Code Review Skills for Pythonistas](https://www.youtube.com/watch?v=6L3ZVLtSeo8)
+- [Mawslow's pyramid of code review](http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html)
+
+## docker
+
+- [element](link)
+
+## data science
+
+- [element](link)
+
+## managing engineering teams
+
+About processes within an engineering team.
+
+- [Journaling for better knowledge sharing](https://x-team.com/remote-team-guide/communication/)
+- [Requests for Comments at Uber](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
+- [Adapting the pomodoro technique to engineering](https://www.softwaremeadows.com/posts/the_50-10_time_box_revising_pomodoro_for_software_development/)
 
 ## Contribute
 
