@@ -1,6 +1,7 @@
 # Awesome Tutos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://cdn.rawgit.com/louisguitton/awesome-tutos/master/ecole-des-mines-de-paris.jpg">](https://github.com/louisguitton/awesome-tutos)
+[<img src="ecole-des-mines-de-paris.jpg">](https://github.com/louisguitton/awesome-tutos)
+
 
 > A curated list of tech tutos to share and to refer back to.
 
