@@ -8,40 +8,45 @@ More often than not, I find myself in the need of refering back to a good tutori
 
 ## Contents
 
-- [python](#python)
-- [git](#git)
-- [code reviews](#code-reviews)
-- [docker](#docker)
-- [data science](#data-science)
-- [managing engineering teams](#managing-engineering-teams)
+- [Application and Data](#application-and-data)
+- [DevOps](#devops)
+- [Processes within an Engineering Team](#processes-within-an-engineering-team)
 
-## python
+## Application and Data
+
+### python
 
 About software engineering in python.
 
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 
-## git
+### flask
+
+- [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+### data science
+
+- [element](link)
+
+## DevOps
+
+### git
 
 - [Git workflows and more by Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Version control for jupyter notebooks](https://towardsdatascience.com/version-control-for-jupyter-notebook-3e6cef13392d)
 
-## code reviews
+### docker
+
+- [Demystifying docker](https://www.youtube.com/watch?v=pGYAg7TMmp0&index=1&list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc)
+
+## Processes within an Engineering Team
+
+### code reviews
 
 - [Code Review Skills for Pythonistas](https://www.youtube.com/watch?v=6L3ZVLtSeo8)
 - [Mawslow's pyramid of code review](http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html)
 
-## docker
-
-- [element](link)
-
-## data science
-
-- [element](link)
-
-## managing engineering teams
-
-About processes within an engineering team.
+### others
 
 - [Journaling for better knowledge sharing](https://x-team.com/remote-team-guide/communication/)
 - [Requests for Comments at Uber](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
