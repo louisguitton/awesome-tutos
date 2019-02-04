@@ -26,7 +26,7 @@ About software engineering in python.
 
 ### data science
 
-- [element](link)
+- [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 
 ## DevOps
 
