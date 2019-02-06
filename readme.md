@@ -26,6 +26,7 @@ About software engineering in python.
 
 ### data science
 
+- [Reproducible DS Project Structure](https://drivendata.github.io/cookiecutter-data-science/)
 - [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 
 ## DevOps
