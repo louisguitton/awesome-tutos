@@ -29,6 +29,10 @@ About software engineering in python.
 - [Reproducible DS Project Structure](https://drivendata.github.io/cookiecutter-data-science/)
 - [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 
+### spark
+
+- [Practical Apache Spark in 10 minutes](https://www.datasciencecentral.com/page/search?q=Practical+Apache+Spark+in+10+minutes)
+
 ## DevOps
 
 ### git
