@@ -26,7 +26,7 @@ About software engineering in python.
 
 ### data science
 
-- [DS Cheatsheet](./files/ds-cheatsheet.pdf)
+- [DS Cheatsheet](./files/ds-cheat-sheet.pdf)
 - [Reproducible DS Project Structure](https://drivendata.github.io/cookiecutter-data-science/)
 - [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 
