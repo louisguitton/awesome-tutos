@@ -34,6 +34,13 @@ About software engineering in python.
 
 - [Practical Apache Spark in 10 minutes](https://www.datasciencecentral.com/page/search?q=Practical+Apache+Spark+in+10+minutes)
 
+### data engineering
+
+- Triptych by the creator of Airflow
+  - [What is a Data Engineer, 2017](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)
+  - [What are the limitations of Data Engineering, 2017](https://medium.com/@maximebeauchemin/the-downfall-of-the-data-engineer-5bfb701e5d6b)
+  - [How can we solve some of these limitations, 2018](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
+
 ## DevOps
 
 ### git
