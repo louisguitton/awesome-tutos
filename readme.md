@@ -23,6 +23,7 @@ More often than not, I find myself in the need of refering back to a good tutori
 About software engineering in python.
 
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+- [Libraries Landscape in Python](https://community.ibm.com/community/user/datascience/blogs/paco-nathan/2019/03/12/a-landscape-diagram-for-python-data)
 
 ### flask
 
