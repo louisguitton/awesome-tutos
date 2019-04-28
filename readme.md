@@ -51,6 +51,7 @@ About software engineering in python.
 
 - [Git workflows and more by Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Version control for jupyter notebooks](https://towardsdatascience.com/version-control-for-jupyter-notebook-3e6cef13392d)
+- [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 
 ### docker
 
