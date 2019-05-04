@@ -58,6 +58,10 @@ About software engineering in python.
 
 - [Demystifying docker](https://www.youtube.com/watch?v=pGYAg7TMmp0&index=1&list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc)
 
+### regex
+
+- [Interactive tutorial](https://regexone.com/)
+
 ## Processes within an Engineering Team
 
 ### code reviews
