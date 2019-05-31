@@ -14,6 +14,10 @@ More often than not, I find myself in the need of refering back to a good tutori
 
 ## Application and Data
 
+### general
+
+- [Awesome Readme Template](https://github.com/dbader/readme-template/blob/master/README.md)
+
 ### software as a service
 
 - [The Twelve-Factor App Methodology](https://12factor.net)
