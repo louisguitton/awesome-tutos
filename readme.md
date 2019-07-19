@@ -80,6 +80,7 @@ About software engineering in python.
 - [Journaling for better knowledge sharing](https://x-team.com/remote-team-guide/communication/)
 - [Requests for Comments at Uber](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
 - [Adapting the pomodoro technique to engineering](https://www.softwaremeadows.com/posts/the_50-10_time_box_revising_pomodoro_for_software_development/)
+- [Reflecting on personal development with Brag Documents](https://jvns.ca/blog/brag-documents/)
 
 ## Contribute
 
