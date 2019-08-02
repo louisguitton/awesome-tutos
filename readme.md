@@ -59,6 +59,7 @@ About software engineering in python.
 - [Git the simple guide](https://rogerdudler.github.io/git-guide/) and its [cheatsheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 - [Version control for jupyter notebooks](https://towardsdatascience.com/version-control-for-jupyter-notebook-3e6cef13392d)
 - [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ### docker
 
