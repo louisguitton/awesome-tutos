@@ -82,6 +82,7 @@ About software engineering in python.
 - [Requests for Comments at Uber](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
 - [Adapting the pomodoro technique to engineering](https://www.softwaremeadows.com/posts/the_50-10_time_box_revising_pomodoro_for_software_development/)
 - [Reflecting on personal development with Brag Documents](https://jvns.ca/blog/brag-documents/)
+- [What we do wrong about meetings and how to change this](http://timharford.com/2019/08/what-we-get-wrong-about-meetings-and-how-to-make-them-worth-attending)
 
 ## Contribute
 
