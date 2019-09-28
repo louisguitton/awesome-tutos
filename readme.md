@@ -55,11 +55,12 @@ About software engineering in python.
 
 ### git
 
-- [Git workflows and more by Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [Atlassian Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Git the simple guide](https://rogerdudler.github.io/git-guide/) and its [cheatsheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 - [Version control for jupyter notebooks](https://towardsdatascience.com/version-control-for-jupyter-notebook-3e6cef13392d)
 - [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Advanced Git: keeping a clean commit history](https://about.gitlab.com/2018/06/07/keeping-git-commit-history-clean/)
 
 ### docker
 
