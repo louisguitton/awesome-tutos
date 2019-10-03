@@ -33,6 +33,7 @@ About software engineering in python.
 ### flask
 
 - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Cookiecutter Flask](https://github.com/cookiecutter-flask/cookiecutter-flask)
 
 ### data science
 
