@@ -31,6 +31,7 @@ About software engineering in python.
 - [Libraries Landscape in Python](https://community.ibm.com/community/user/datascience/blogs/paco-nathan/2019/03/12/a-landscape-diagram-for-python-data)
 - [Things you're probably not using in Python3](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/)
 - [Advanced python testing](https://joshpeak.net/posts/2019-06-18-Advanced-python-testing.html)
+- [WTF Python](https://github.com/satwikkansal/wtfpython)
 
 ### flask
 
