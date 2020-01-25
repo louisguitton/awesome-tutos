@@ -22,6 +22,7 @@ More often than not, I find myself in the need of refering back to a good tutori
 ### software as a service
 
 - [The Twelve-Factor App Methodology](https://12factor.net)
+- [Building backends](https://github.com/fpereiro/backendlore)
 
 ### python
 
