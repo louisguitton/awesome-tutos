@@ -33,6 +33,7 @@ About software engineering in python.
 - [Things you're probably not using in Python3](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/)
 - [Advanced python testing](https://joshpeak.net/posts/2019-06-18-Advanced-python-testing.html)
 - [WTF Python](https://github.com/satwikkansal/wtfpython)
+- [A practical guide to setup.py](https://godatadriven.com/blog/a-practical-guide-to-using-setup-py/)
 
 ### flask
 
