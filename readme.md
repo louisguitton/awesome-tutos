@@ -39,6 +39,7 @@ About software engineering in python.
 
 - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Cookiecutter Flask](https://github.com/cookiecutter-flask/cookiecutter-flask)
+- [What is gunicorn (WSGI)?](https://vsupalov.com/what-is-gunicorn/)
 
 ### data science
 
