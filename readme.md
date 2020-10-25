@@ -69,6 +69,7 @@ About software engineering in python.
 - [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Advanced Git: keeping a clean commit history](https://about.gitlab.com/2018/06/07/keeping-git-commit-history-clean/)
+- [Interactive Git exercises, from hello world to advanced in 1 hour](https://gitexercises.fracz.com/)
 
 ### docker
 
