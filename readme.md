@@ -93,6 +93,7 @@ About software engineering in python.
 - [Adapting the pomodoro technique to engineering](https://www.softwaremeadows.com/posts/the_50-10_time_box_revising_pomodoro_for_software_development/)
 - [Reflecting on personal development with Brag Documents](https://jvns.ca/blog/brag-documents/)
 - [What we do wrong about meetings and how to change this](http://timharford.com/2019/08/what-we-get-wrong-about-meetings-and-how-to-make-them-worth-attending)
+- [Choosing the Management Track](https://blog.danielna.com/choosing-the-management-track/)
 
 ### mentoring
 
