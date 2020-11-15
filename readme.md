@@ -18,6 +18,7 @@ More often than not, I find myself in the need of refering back to a good tutori
 
 - [Awesome Readme Template](https://github.com/dbader/readme-template/blob/master/README.md)
 - [Naming things in Software matters](https://hackernoon.com/software-complexity-naming-6e02e7e6c8cb)
+- [Data architecture vs backend architecture · Erik Bernhardsson](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html)
 
 ### software as a service
 
