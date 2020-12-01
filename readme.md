@@ -29,6 +29,9 @@ More often than not, I find myself in the need of refering back to a good tutori
 
 About software engineering in python.
 
+- Setting up python on your Mac
+  - [The right and wrong way to set up Python 3 on MacOS | Opensource.com](https://opensource.com/article/19/5/python-3-default-mac)
+  - [How to use pyenv to run multiple versions of Python on a Mac | Opensource.com](https://opensource.com/article/20/4/pyenv)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [Libraries Landscape in Python](https://community.ibm.com/community/user/datascience/blogs/paco-nathan/2019/03/12/a-landscape-diagram-for-python-data)
 - [Things you're probably not using in Python3](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/)
