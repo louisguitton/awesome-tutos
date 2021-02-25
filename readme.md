@@ -39,6 +39,7 @@ About software engineering in python.
 - [Advanced python testing](https://joshpeak.net/posts/2019-06-18-Advanced-python-testing.html)
 - [WTF Python](https://github.com/satwikkansal/wtfpython)
 - [A practical guide to setup.py](https://godatadriven.com/blog/a-practical-guide-to-using-setup-py/)
+- [Data Management With Python, SQLite, and SQLAlchemy – Real Python](https://realpython.com/python-sqlite-sqlalchemy/)
 
 ### flask
 
