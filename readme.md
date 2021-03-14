@@ -101,6 +101,7 @@ About software engineering in python.
 - [Reflecting on personal development with Brag Documents](https://jvns.ca/blog/brag-documents/)
 - [What we do wrong about meetings and how to change this](http://timharford.com/2019/08/what-we-get-wrong-about-meetings-and-how-to-make-them-worth-attending)
 - [Choosing the Management Track](https://blog.danielna.com/choosing-the-management-track/)
+- [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/)
 
 ### mentoring
 
