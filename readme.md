@@ -40,6 +40,7 @@ About software engineering in python.
 - [WTF Python](https://github.com/satwikkansal/wtfpython)
 - [A practical guide to setup.py](https://godatadriven.com/blog/a-practical-guide-to-using-setup-py/)
 - [Data Management With Python, SQLite, and SQLAlchemy – Real Python](https://realpython.com/python-sqlite-sqlalchemy/)
+- [How to make an awesome Python package in 2021 | Anton Zhiyanov](https://antonz.org/python-packaging/)
 
 ### flask
 
