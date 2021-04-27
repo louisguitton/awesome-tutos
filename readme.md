@@ -94,7 +94,7 @@ About software engineering in python.
 - [Code Review Skills for Pythonistas](https://www.youtube.com/watch?v=6L3ZVLtSeo8)
 - [Mawslow's pyramid of code review](http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html)
 
-## pair programming
+### pair programming
 
 - [Pair Programming in Jina - Onboarding via Pairing | Jina AI](https://jina.ai/2021/01/14/pair-programming-onboarding.html)
 
