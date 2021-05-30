@@ -20,6 +20,7 @@ More often than not, I find myself in the need of refering back to a good tutori
 - [Naming things in Software matters](https://hackernoon.com/software-complexity-naming-6e02e7e6c8cb)
 - [Data architecture vs backend architecture · Erik Bernhardsson](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html)
 - [The documentation system — Documentation system documentation](https://documentation.divio.com/)
+- [You Only Need These 3 Data Roles in a Data-Driven Enterprise - Laszlo’s Newsletter](https://laszlo.substack.com/p/you-only-need-these-3-data-roles)
 
 ### software as a service
 
@@ -30,7 +31,7 @@ More often than not, I find myself in the need of refering back to a good tutori
 
 About software engineering in python.
 
-- Setting up python on your Mac
+- Setting up python on your Mac:
   - [The right and wrong way to set up Python 3 on MacOS | Opensource.com](https://opensource.com/article/19/5/python-3-default-mac)
   - [How to use pyenv to run multiple versions of Python on a Mac | Opensource.com](https://opensource.com/article/20/4/pyenv)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
