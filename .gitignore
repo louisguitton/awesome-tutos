@@ -1,4 +1,6 @@
 venv/
 .python-version
-docs/
 site/
+docs/index.md
+docs/ecole-des-mines-de-paris.jpg
+docs/CNAME
