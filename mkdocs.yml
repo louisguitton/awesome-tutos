@@ -23,6 +23,7 @@ nav:
         - Code Review: guides/team/code-review.md
         - Applied ML Research: guides/team/applied-ml-research.md
         - Project Management: guides/team/project-management.md
+    - Others: guides/others.md
 
 theme:
   name: material
