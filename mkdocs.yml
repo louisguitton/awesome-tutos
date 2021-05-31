@@ -43,6 +43,7 @@ theme:
 markdown_extensions:
   - toc:
       permalink: true
+      toc_depth: 2
   - admonition
   - pymdownx.highlight
   - pymdownx.superfences
