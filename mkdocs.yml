@@ -6,24 +6,23 @@ site_author: Louis Guitton
 
 nav:
     - Home: index.md
-    - Guides:
-        - Tech Guides:
-            - Docs: guides/tech/readme.md
-            - Python: guides/tech/python.md
-            - Git: guides/tech/git.md
-            - SQL: guides/tech/sql.md
-            - dbt: guides/tech/dbt.md
-            - Backend: guides/tech/backend.md
-            - docker: guides/tech/docker.md
-            - CI: guides/tech/ci.md
-        - Infrastructure:
-            - Data Stack: guides/infra/data-stack.md
-            - AWS: guides/infra/aws.md
-        - Data Team:
-            - Roles: guides/team/data-team-roles.md
-            - Code Review: guides/team/code-review.md
-            - Applied ML Research: guides/team/applied-ml-research.md
-            - Project Management: guides/team/project-management.md
+    - Tech:
+        - Docs: guides/tech/readme.md
+        - Python: guides/tech/python.md
+        - Git: guides/tech/git.md
+        - SQL: guides/tech/sql.md
+        - dbt: guides/tech/dbt.md
+        - Backend: guides/tech/backend.md
+        - docker: guides/tech/docker.md
+        - CI: guides/tech/ci.md
+    - Infrastructure:
+        - Data Stack: guides/infra/data-stack.md
+        - AWS: guides/infra/aws.md
+    - Data Team:
+        - Roles: guides/team/data-team-roles.md
+        - Code Review: guides/team/code-review.md
+        - Applied ML Research: guides/team/applied-ml-research.md
+        - Project Management: guides/team/project-management.md
 
 theme:
   name: material
