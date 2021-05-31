@@ -1,3 +1,7 @@
+---
+description: Awesome Tuto on using AWS as part of your Infrastructure
+---
+
 # AWS Guide
 
 ## AWS CLI configuration

@@ -1,3 +1,7 @@
+---
+description: Awesome Tuto on dbt as part of your Tech stack
+---
+
 # dbt Guide
 
 [dbt training - Google Slides - Louis Guitton](https://docs.google.com/presentation/d/1uA_N8du3XGB6tdys9gsbqHEBnkFMl7EeZqMJvJVU9Yc/edit?usp=sharing)

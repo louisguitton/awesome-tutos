@@ -1,14 +1,23 @@
+---
+description: Awesome Tuto on Backend Engineering
+---
+
 # Backend Guide
 
 [The Twelve-Factor App Methodology](https://12factor.net)
 
 ## Keep secrets and configuration out of version control
 
-You _really_ don't want to leak your AWS secret key or Postgres username and password on Github. Enough said — see the [Twelve Factor App](http://12factor.net/config) principles on this point. Here's one way to do this:
+You _really_ don't want to leak your AWS secret key or
+Postgres username and password on Github. Enough said —
+see the [Twelve Factor App](http://12factor.net/config)
+principles on this point. Here's one way to do this:
 
 ### Store your secrets and config variables in a special file
 
-Create a `.env` file in the project root folder. Thanks to the `.gitignore`, this file should never get committed into the version control repository. Here's an example:
+Create a `.env` file in the project root folder. Thanks to
+the `.gitignore`, this file should never get committed into
+the version control repository. Here's an example:
 
 ```nohighlight
 # example .env file
@@ -18,9 +27,13 @@ AWS_SECRET_ACCESS_KEY=mysecretkey
 OTHER_VARIABLE=something
 ```
 
-### Use a package to load these variables automatically.
+### Use a package to load these variables automatically
 
-If you look at the stub script in `src/data/make_dataset.py`, it uses a package called [python-dotenv](https://github.com/theskumar/python-dotenv) to load up all the entries in this file as environment variables so they are accessible with `os.environ.get`. Here's an example snippet adapted from the `python-dotenv` documentation:
+If you look at the stub script in `src/data/make_dataset.py`,
+it uses a package called [python-dotenv](https://github.com/theskumar/python-dotenv)
+to load up all the entries in this file as environment variables
+so they are accessible with `os.environ.get`. Here's an
+example snippet adapted from the `python-dotenv` documentation:
 
 ```python
 # src/data/dotenv_example.py

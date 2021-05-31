@@ -1,3 +1,7 @@
+---
+description: Awesome Tuto on SQL as part of your Tech stack
+---
+
 # SQL Guide
 
 ## Language Reference

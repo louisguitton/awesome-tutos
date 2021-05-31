@@ -9,6 +9,8 @@ repos:
     rev: 0.7.6
     hooks:
       - id: mdformat
+        additional_dependencies:
+        - mdformat-frontmatter
   - repo: https://github.com/markdownlint/markdownlint.git
     rev: v0.11.0
     hooks:

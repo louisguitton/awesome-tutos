@@ -1,3 +1,7 @@
+---
+description: Awesome Tuto on Applied ML Research as part of Team Processes
+---
+
 # Applied ML Research Guide
 
 ## Checklist

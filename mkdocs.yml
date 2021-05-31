@@ -1,5 +1,6 @@
 site_name: Awesome Tutos
 repo_url: https://github.com/louisguitton/awesome-tutos
+repo_name: louisguitton/awesome-tutos
 site_description: A curated list of tech tutos to share and to refer back to.
 site_author: Louis Guitton
 
@@ -17,9 +18,45 @@ nav:
             - CI: guides/tech/ci.md
         - Infrastructure:
             - Data Stack: guides/infra/data-stack.md
-            - AWS: guides/tech/aws.md
+            - AWS: guides/infra/aws.md
         - Data Team:
             - Roles: guides/team/data-team-roles.md
             - Code Review: guides/team/code-review.md
-            - Applied ML Research: guidse/team/applied-ml-research.md
+            - Applied ML Research: guides/team/applied-ml-research.md
             - Project Management: guides/team/project-management.md
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    scheme: default
+    primary: cyan
+    accent: indigo
+  font:
+    text: Inter
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - attr_list
+  - meta
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/louis_guitton
+    - icon: material/web
+      link: https://guitton.co
+  generator: false
+
+plugins:
+  - search
+  - git-revision-date

@@ -1,3 +1,7 @@
+---
+description: Awesome Tuto on Data Stack as part of your Infrastructure
+---
+
 # Data Stack Guide
 
 ## Data Stack Canva

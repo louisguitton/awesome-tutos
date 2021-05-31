@@ -1,3 +1,7 @@
+---
+description: Awesome Tuto on Code Reviews as part of Team Processes
+---
+
 # Code Review Guide
 
 ## Github Course
@@ -96,7 +100,7 @@ How to allow maintainers to modify your PR
   Make it part of your daily workflow. (use github notifications)
 - Don't use the words "now simply", "easily", "just", "obviously" ...
 
-![](../../code_review_now_simply.jpg)
+![Placeholder](../../code_review_now_simply.jpg){ align=left width=300 }
 "Now, simply stretch and smile"
 
 What to provide feedback on

@@ -1,3 +1,7 @@
+---
+description: Awesome Tuto on git as part of your Tech stack
+---
+
 # Git Guide
 
 ## Git Intro
