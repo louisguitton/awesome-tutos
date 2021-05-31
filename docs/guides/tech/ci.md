@@ -1,3 +1,4 @@
 # Continuous Integration Guide
 
-https://lab.github.com/githubtraining/github-actions:-hello-world
+- [GitHub Actions: Hello World | GitHub Learning Lab](https://lab.github.com/githubtraining/github-actions:-hello-world)
+- [DevOps with GitHub Actions | GitHub Learning Lab](https://lab.github.com/githubtraining/devops-with-github-actions)

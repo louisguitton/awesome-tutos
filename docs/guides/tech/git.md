@@ -2,11 +2,11 @@
 
 ## Git Intro
 
-https://docs.google.com/presentation/d/1rcdoeD2IR0IrABQt6WQu_KA1hbtc8Cy-UN2dSunjW5g/edit#slide=id.p
+[Git & Github Training - Google Slides - Louis Guitton](https://docs.google.com/presentation/d/1rcdoeD2IR0IrABQt6WQu_KA1hbtc8Cy-UN2dSunjW5g/edit?usp=sharing)
 
 ## Github Intro
 
-https://lab.github.com/githubtraining/introduction-to-github
+[Introduction to GitHub | GitHub Learning Lab](https://lab.github.com/githubtraining/introduction-to-github)
 
 ## References
 
