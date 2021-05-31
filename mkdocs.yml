@@ -7,19 +7,19 @@ nav:
     - Home: index.md
     - Guides:
         - Tech Guides:
-            - Readme & Simple Documentation: guides/tech/readme.md
+            - Docs: guides/tech/readme.md
             - Python: guides/tech/python.md
-            - Backend Engineering: guides/tech/backend.md
-            - AWS: guides/tech/aws.md
-            - SQL: guides/tech/sql.md
             - Git: guides/tech/git.md
+            - SQL: guides/tech/sql.md
             - dbt: guides/tech/dbt.md
+            - Backend: guides/tech/backend.md
             - docker: guides/tech/docker.md
             - CI: guides/tech/ci.md
         - Infrastructure:
-            - Data Stack Canva: guides/infra/data-stack-canva.md
+            - Data Stack: guides/infra/data-stack.md
+            - AWS: guides/tech/aws.md
         - Data Team:
-            - Data Team Roles: guides/team/data-team-roles.md
+            - Roles: guides/team/data-team-roles.md
             - Code Review: guides/team/code-review.md
             - Applied ML Research: guidse/team/applied-ml-research.md
             - Project Management: guides/team/project-management.md
