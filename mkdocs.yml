@@ -7,7 +7,7 @@ site_author: Louis Guitton
 nav:
     - Home: index.md
     - Tech:
-        - Docs: guides/tech/readme.md
+        - Docs: guides/tech/docs.md
         - Python: guides/tech/python.md
         - Git: guides/tech/git.md
         - SQL: guides/tech/sql.md
