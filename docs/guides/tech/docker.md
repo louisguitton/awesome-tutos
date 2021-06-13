@@ -10,6 +10,8 @@ description: Awesome Tuto on docker as part of your Tech stack
 
 ## Docker Compose
 
+- [Best Practices Around Production Ready Web Apps with Docker Compose — Nick Janetakis](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose)\\
+
 ## Kubernetes
 
 - [Kubernetes Deployment Cheat Sheet · guitton.co](https://guitton.co/posts/kubernetes-cheatsheet/)
