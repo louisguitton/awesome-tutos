@@ -6,7 +6,7 @@ description: Awesome Tuto on Applied ML Research as part of Team Processes
 
 ## Checklist
 
-<!-- - [Applied ML Research checklist · guitton.co](https://guitton.co/posts/applied-ml-research/) -->
+<!-- - [Applied ML Research checklist · guitton.co](https://guitton.co/posts/applied-ml-research) -->
 
 ## Journaling
 

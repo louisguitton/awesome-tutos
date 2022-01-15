@@ -18,14 +18,14 @@ knowledge sharing around a couple areas:
 
 | Tech                                                           | Infra                                                                   | Team                                                                                     |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [Docs](https://awesome-tutos.guitton.co/guides/tech/docs)       | [Data Stack](https://awesome-tutos.guitton.co/guides/infra/data-stack/) | [Roles](https://awesome-tutos.guitton.co/guides/team/data-team-roles/)                   |
-| [Python](https://awesome-tutos.guitton.co/guides/tech/python)   | [AWS](https://awesome-tutos.guitton.co/guides/infra/aws/)               | [Code Review](https://awesome-tutos.guitton.co/guides/team/code-review/)                 |
-| [Git](https://awesome-tutos.guitton.co/guides/tech/git)         |                                                                         | [Applied ML Research](https://awesome-tutos.guitton.co/guides/team/applied-ml-research/) |
-| [SQL](https://awesome-tutos.guitton.co/guides/tech/sql)         |                                                                         | [Project Management](https://awesome-tutos.guitton.co/guides/team/project-management/)   |
-| [dbt](https://awesome-tutos.guitton.co/guides/tech/dbt)         |                                                                         |                                                                                          |
-| [Backend](https://awesome-tutos.guitton.co/guides/tech/backend) |                                                                         |                                                                                          |
-| [docker](https://awesome-tutos.guitton.co/guides/tech/docker)   |                                                                         |                                                                                          |
-| [CI](https://awesome-tutos.guitton.co/guides/tech/ci)           |                                                                         |                                                                                          |
+| [Docs](https://awesome-tutos.guitton.co/guides/tech/docs/)       | [Data Stack](https://awesome-tutos.guitton.co/guides/infra/data-stack/) | [Roles](https://awesome-tutos.guitton.co/guides/team/data-team-roles/)                   |
+| [Python](https://awesome-tutos.guitton.co/guides/tech/python/)   | [AWS](https://awesome-tutos.guitton.co/guides/infra/aws/)               | [Code Review](https://awesome-tutos.guitton.co/guides/team/code-review/)                 |
+| [Git](https://awesome-tutos.guitton.co/guides/tech/git/)         |                                                                         | [Applied ML Research](https://awesome-tutos.guitton.co/guides/team/applied-ml-research/) |
+| [SQL](https://awesome-tutos.guitton.co/guides/tech/sql/)         |                                                                         | [Project Management](https://awesome-tutos.guitton.co/guides/team/project-management/)   |
+| [dbt](https://awesome-tutos.guitton.co/guides/tech/dbt/)         |                                                                         |                                                                                          |
+| [Backend](https://awesome-tutos.guitton.co/guides/tech/backend/) |                                                                         |                                                                                          |
+| [docker](https://awesome-tutos.guitton.co/guides/tech/docker/)   |                                                                         |                                                                                          |
+| [CI](https://awesome-tutos.guitton.co/guides/tech/ci/)           |                                                                         |                                                                                          |
 
 Some nice reads don't fit into guides at this time, so I include them in "Others".
 

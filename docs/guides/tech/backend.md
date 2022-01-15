@@ -61,4 +61,4 @@ other_variable = os.environ.get("OTHER_VARIABLE")
 
 ## Monitoring
 
-- [How to monitor your FastAPI service · guitton.co](https://guitton.co/posts/fastapi-monitoring/)
+- [How to monitor your FastAPI service · guitton.co](https://guitton.co/posts/fastapi-monitoring)
