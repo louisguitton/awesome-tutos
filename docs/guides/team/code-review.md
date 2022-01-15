@@ -31,12 +31,12 @@ description: Awesome Tuto on Code Reviews as part of Team Processes
 
 ## How to code review
 
-![](../../code_review_maslow.png)
+![](../../code_review_maslow.png "Maslow pyramid of code review")
 
 As in Maslow's pyramid, each layer requires the previous one.
 It is useless for code that is charging the wrong customer to be readable.
 
-![](../../code_review_ping_pong.png)
+![](../../code_review_ping_pong.png "Code review ping pong")
 
 ## Be a great submitter (when writing a PR)
 
