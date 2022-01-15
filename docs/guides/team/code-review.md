@@ -133,5 +133,6 @@ git push origin HEAD:refs/pull/{pull number from previous section}/head
 
 - [Code Review Skills for Pythonistas - Talk](https://www.youtube.com/watch?v=6L3ZVLtSeo8)
   and [Slides](https://ep2018.europython.eu/media/conference/slides/code-review-skills-for-pythonistas.pdf)
-- [Mawslow's pyramid of code review](http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html)
+- [Mawslow's pyramid of code review](https://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html)
 - [Code Reviews: Just Do It](https://blog.codinghorror.com/code-reviews-just-do-it/)
+- [Reviewer Guidance - Code With Engineering Playbook - Microsoft](https://microsoft.github.io/code-with-engineering-playbook/code-reviews/process-guidance/reviewer-guidance/)

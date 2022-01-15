@@ -22,3 +22,11 @@ description: Awesome Tuto on git as part of your Tech stack
 - [Advanced Git: keeping a clean commit history](https://about.gitlab.com/2018/06/07/keeping-git-commit-history-clean/)
 - [Interactive Git exercises, from hello world to advanced in 1 hour](https://gitexercises.fracz.com/)
 - [Visualisation of git commands: Explain Git with D3](https://onlywei.github.io/explain-git-with-d3/)
+
+## Github's 3 flows
+
+- the git merge flow on Github
+- the git squash and merge flow
+- the git rebase flow
+
+pros and cons of keeping your git history clean etc...

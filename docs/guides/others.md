@@ -26,7 +26,8 @@ About software engineering in python.
 
 ### Data Science
 
-- [DS Cheatsheet](./files/ds-cheat-sheet.pdf)
+<!-- - [DS Cheatsheet](./files/ds-cheat-sheet.pdf) -->
+
 - [Reproducible DS Project Structure](https://drivendata.github.io/cookiecutter-data-science/)
 - [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 
@@ -59,7 +60,7 @@ About software engineering in python.
 ### Manager Relationship
 
 - [Reflecting on personal development with Brag Documents](https://jvns.ca/blog/brag-documents/)
-- [What we do wrong about meetings and how to change this](http://timharford.com/2019/08/what-we-get-wrong-about-meetings-and-how-to-make-them-worth-attending)
+- [What we do wrong about meetings and how to change this](https://timharford.com/2019/08/what-we-get-wrong-about-meetings-and-how-to-make-them-worth-attending)
 - [Choosing the Management Track](https://blog.danielna.com/choosing-the-management-track/)
 - [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/)
 

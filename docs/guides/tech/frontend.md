@@ -1,0 +1,4 @@
+- emmet balance outward in vscode
+- html:5
+- cmd + space for completion and auto imports
+-

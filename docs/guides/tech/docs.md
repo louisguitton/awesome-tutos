@@ -22,10 +22,10 @@ description: Awesome Tuto on Docs as part of your Tech stack
 Make is a common tool on Unix-based platforms (and [is available for Windows](<>)).
 Following the [`make` documentation](https://www.gnu.org/software/make/),
 [Makefile conventions](https://www.gnu.org/prep/standards/html_node/Makefile-Conventions.html#Makefile-Conventions),
-and [portability guide](http://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.69/html_node/Portable-Make.html#Portable-Make)
+and [portability guide](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.69/html_node/Portable-Make.html#Portable-Make)
 will help ensure your Makefiles work effectively across systems.
-Here are [some](http://zmjones.com/make/) [examples](http://blog.kaggle.com/2012/10/15/make-for-data-scientists/)
-to [get started](https://web.archive.org/web/20150206054212/http://www.bioinformaticszen.com/post/decomplected-workflows-makefiles/).
+Here are [some](https://zmjones.com/make/) [examples](https://blog.kaggle.com/2012/10/15/make-for-data-scientists/)
+to [get started](https://web.archive.org/web/20150206054212/https://www.bioinformaticszen.com/post/decomplected-workflows-makefiles/).
 A number of data folks use `make` as their tool of choice,
 including [Mike Bostock](https://bost.ocks.org/mike/make/).
 
