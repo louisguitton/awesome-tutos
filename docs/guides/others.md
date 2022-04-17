@@ -64,6 +64,10 @@ About software engineering in python.
 - [Choosing the Management Track](https://blog.danielna.com/choosing-the-management-track/)
 - [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/)
 
+## HR
+
+- [Exit Interviews Are a Trap - Jacob Kaplan-Moss](https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/)
+
 ### Others
 
 - [Adapting the pomodoro technique to engineering](https://www.softwaremeadows.com/posts/the_50-10_time_box_revising_pomodoro_for_software_development/)
