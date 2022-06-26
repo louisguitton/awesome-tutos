@@ -12,3 +12,4 @@ description: Awesome Tuto on Hiring for engineering managers
   - Data Engineer
   - Data Analyst
 - [A Framework for Good Work Sample Tests: Eight Rules for Fair Tests](https://jacobian.org/2021/nov/17/wst-framework/)
+- [Unpacking Interview Questions - Jacob Kaplan-Moss](https://jacobian.org/series/unpacking-interview-questions/)
